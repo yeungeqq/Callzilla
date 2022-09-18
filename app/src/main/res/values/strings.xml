@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Callzilla</string>
+    <string name="date_range">Live Data</string>
+    <string name="textTitle">Phone Call Summary</string>
+    <string name="totalRow">Total Calling Actions:</string>
+    <string name="responded">Responded Calls:</string>
+    <string name="dialed">Dialed Calls:</string>
+    <string name="rejected">Rejected Calls:</string>
+    <string name="missed">Missed Calls:</string>
+    <string name="tableTitle">Phone Call Distribution Table</string>
+</resources>
